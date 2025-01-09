@@ -26,12 +26,12 @@ export default function FollowingJesus() {
             jesus. By the Grace of God there will be opportunity to support our
             missionaries through prayer and giving
           </p>
-          <div className="flex gap-1 justify-center lg:mx-24 lg:my4 my-2">
+          <div className="flex gap-1 justify-center lg:mx-24 lg:my4 my-1">
             <span>
               <Image
                 className="shadow-xl p-2 border-radius rounded-lg"
                 src={"/./image/donations-picture.jpg"}
-                width={129}
+                width={120}
                 height={0}
                 alt="donations"
               />
@@ -40,7 +40,7 @@ export default function FollowingJesus() {
               <Image
                 className="shadow-xl p-2 border-radius rounded-lg"
                 src={"/./image/bible-picture.jpg"}
-                width={129}
+                width={120}
                 height={0}
                 alt="donations"
               />
@@ -49,7 +49,7 @@ export default function FollowingJesus() {
               <Image
                 className="shadow-xl p-2 border-radius rounded-lg"
                 src={"/./image/funds-backky.jpg"}
-                width={129}
+                width={120}
                 height={0}
                 alt="donations"
               />
