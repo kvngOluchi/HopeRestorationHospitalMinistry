@@ -9,7 +9,7 @@ export default function Hero() {
         {/*background image*/}
         <span className="w-full h-[500px] md:h-[600px] relative grid col-[-1/1] row-[-1/1]">
           <Image
-            src={"/./image/churchbackky.jpg"}
+            src={"/image/churchbackky.jpg"}
             fill
             objectFit="cover"
             alt="Hero Background Image"
