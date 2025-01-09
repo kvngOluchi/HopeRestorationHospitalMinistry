@@ -11,7 +11,7 @@ export default function FollowingJesus() {
               className="shadow-xl p-4 border-radius rounded-2xl"
               src={"/./image/home back.jpg"}
               alt="World Image"
-              width={640}
+              width={370}
               height={0}
             />
           </span>
