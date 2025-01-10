@@ -6,7 +6,7 @@ import Button from "@/ui/button";
 
 export default function Footer() {
   return (
-    <section className="layout-spacing bg-[#1c1d1d] text-white">
+    <section className="layout-spacing bg-[#1c1d1d] text-white p-5">
       <div className="custom-container">
         <div className=" grid  md:grid-cols-[1fr_1fr_1fr] ">
           <div>
