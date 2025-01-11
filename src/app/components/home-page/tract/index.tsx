@@ -4,7 +4,7 @@ import React from "react";
 
 export default function Tract() {
   return (
-    <section className="layout-spacing mt-28 bg-[#ededef] pb-10 ">
+    <section className="layout-spacing mt-28 bg-[#1c1d1d] pb-10 text-white ">
       <div className="custom-container">
         <div className=" text-center font-bold">
           <h2 className="mt-20">Tract from our mission</h2>
@@ -15,7 +15,7 @@ export default function Tract() {
             <span className="flex justify-center">
               <Image
                 className=""
-                src={"/./image/IMG-20241227-WA0049.jpg"}
+                src={"/Image/IMG-20241227-WA0049.png"}
                 alt="Picture of a Road Reclaimer"
                 width={275}
                 height={250}
@@ -41,7 +41,7 @@ export default function Tract() {
           <div className=" border-2  ">
             <span className="flex justify-center">
               <Image
-                src={"/./image/IMG-20241227-WA0050.jpg"}
+                src={"/Image/IMG-20241227-WA0050.png"}
                 alt="Picture of a RCOS"
                 width={275}
                 height={250}
