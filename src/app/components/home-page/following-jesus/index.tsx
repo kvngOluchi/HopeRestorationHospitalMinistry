@@ -5,7 +5,7 @@ export default function FollowingJesus() {
   return (
     <section className=" layout-spacing py-9 mt-2 px-1">
       <div className="custom-container grid md:grid-cols-[1fr_1fr]">
-          <span className="">
+          <span className="m-auto">
             <Image
               className="shadow-xl p-4 border-radius rounded-2xl"
               src={"/Image/home back.png"}
