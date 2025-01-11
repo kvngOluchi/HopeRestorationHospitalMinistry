@@ -37,7 +37,7 @@ export default function OurMission() {
           <span className="shadow-xl">
             <Image
               className="shadow-xl p-4 border-radius rounded-2xl"
-              src={"/./image/IMG-20250106-WA0002.jpg"}
+              src={"/Image/IMG-20250106-WA0002.png"}
               height={120}
               width={710}
               alt="Hero Background Image"
@@ -48,7 +48,7 @@ export default function OurMission() {
           <span className="shadow-xl">
             <Image
               className="shadow-xl p-4 border-radius rounded-2xl"
-              src={"/./image/africanimage.jpg"}
+              src={"/Image/africanimage.png"}
               height={120}
               width={710}
               alt="Hero Background Image"
@@ -87,7 +87,7 @@ export default function OurMission() {
           <span className="shadow-xl">
             <Image
               className="shadow-xl p-4 border-radius rounded-2xl"
-              src={"/./image/envangelism.jpg"}
+              src={"/Image/envangelism.png"}
               height={120}
               width={710}
               alt="Hero Background Image"
