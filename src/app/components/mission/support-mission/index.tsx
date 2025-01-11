@@ -4,7 +4,7 @@ import Image from "next/image";
 import React from "react";
 export default function SupportMission() {
   return (
-    <section className="layout-spacing bg-[#ededef] p-5">
+    <section className="layout-spacing bg-[#1c1d1d] p-5 text-white">
       <div className="custom-container md:grid grid-cols-[1fr_1fr]">
         <div className="">
           {" "}
