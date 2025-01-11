@@ -9,7 +9,7 @@ export default function Hero() {
         {/*background image*/}
         <span className="w-full h-[500px] md:h-[600px] relative grid col-[-1/1] row-[-1/1]">
          <Image 
-        src ={"/Image/hope rest. logo22.png"}
+        src ={"/Image/home back.png"}
         width={20}
         height={0}
         alt={"This is the Logo"}
