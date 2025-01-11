@@ -10,7 +10,7 @@ export default function MissionHero() {
         {/*background image*/}
         <span className="w-full h-[300px] md:h-[400px] relative grid col-[-1/1] row-[-1/1]">
           <Image
-            src={"/./image/missions-back.jpeg"}
+            src={"/Image/missions-back.png"}
             fill
             objectFit="cover"
             alt="Hero Background Image"
