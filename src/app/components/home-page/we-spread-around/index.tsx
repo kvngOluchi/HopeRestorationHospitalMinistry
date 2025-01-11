@@ -7,7 +7,7 @@ export default function WeSpreadAround() {
       <div className="custom-container grid md:grid-cols-[1fr_1fr]">
         <span className="">
           <Image
-            src={"/./image/abstract-world-map-transparent-background.png"}
+            src={"/Image/abstract-world-map-transparent-background.png"}
             alt="World Image"
             width={390}
             height={0}
