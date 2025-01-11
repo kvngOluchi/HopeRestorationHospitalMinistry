@@ -5,7 +5,7 @@ import HowStartedButton, { DonateButton } from "@/ui/page-button";
 export default function ServingHospital() {
   return (
     <section className="layout-spacing mb-5 bg-[#1c1d1d] text-white">
-      <div className="custom-container bg-[#e5e7eb] text-center px-1 pb-5">
+      <div className="custom-container text-center px-1 pb-5">
         <h2 className="font-bold text-2xl">
           Serving God's People in Hospitals since 1994
         </h2>
