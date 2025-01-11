@@ -8,7 +8,7 @@ export default function FollowingJesus() {
           <span className="">
             <Image
               className="shadow-xl p-4 border-radius rounded-2xl"
-              src={"/image/home back.png"}
+              src={"/Image/home back.png"}
               alt="World Image"
               width={370}
               height={0}
@@ -30,7 +30,7 @@ export default function FollowingJesus() {
             <span>
               <Image
                 className="shadow-xl p-2 border-radius rounded-lg"
-                src={"/image/donations-picture.png"}
+                src={"/Image/donations-picture.png"}
                 width={120}
                 height={0}
                 alt="donations"
@@ -39,7 +39,7 @@ export default function FollowingJesus() {
             <span>
               <Image
                 className="shadow-xl p-2 border-radius rounded-lg"
-                src={"/image/bible-picture.png"}
+                src={"/Image/bible-picture.png"}
                 width={120}
                 height={0}
                 alt="donations"
@@ -48,7 +48,7 @@ export default function FollowingJesus() {
             <span>
               <Image
                 className="shadow-xl p-2 border-radius rounded-lg"
-                src={"/image/funds-backky.png"}
+                src={"/Image/funds-backky.png"}
                 width={120}
                 height={0}
                 alt="donations"
