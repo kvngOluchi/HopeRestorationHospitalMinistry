@@ -35,7 +35,7 @@ export default function SupportMission() {
             {" "}
             <Image
               className="shadow-xl p-4 border-radius rounded-2xl"
-              src={"/./image/IMG-20250106-WA0006.jpg"}
+              src={"/Image/IMG-20250106-WA0006.png"}
               height={100}
               width={710}
               alt="Hero Background Image"
