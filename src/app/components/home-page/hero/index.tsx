@@ -10,8 +10,8 @@ export default function Hero() {
         <span className="w-full h-[500px] md:h-[600px] relative grid col-[-1/1] row-[-1/1]">
          <Image 
         src ={"/Image/home back.png"}
-        width={20}
-        height={0}
+        fill
+        objectFit="cover"
         alt={"This is the Logo"}
       />
         </span>
