@@ -8,12 +8,12 @@ export default function Hero() {
       <div className=" grid">
         {/*background image*/}
         <span className="w-full h-[500px] md:h-[600px] relative grid col-[-1/1] row-[-1/1]">
-          <Image
-            src={"/image/churchbackky.jpg"}
-            fill
-            objectFit="cover"
-            alt="Hero Background Image"
-          />
+         <Image 
+        src ={"/Image/hope rest. logo22.png"}
+        width={20}
+        height={0}
+        alt={"This is the Logo"}
+      />
         </span>
         {/* Content */}
         <div className="grid col-[-1/1] row-[-1/1] relative text-white bg-[rgba(0,0,0,0.3)] grid-rows-[auto_1fr] gap-10 py-10 px-5 sm:px-10">
