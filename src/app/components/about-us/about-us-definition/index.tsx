@@ -13,7 +13,7 @@ export default function AboutUsDefinition() {
             <Image
               className="shadow-xl p-4"
               src={"/image/backyy.png"}
-              width={640}
+              width={320}
               height={0}
               alt="Hero Background Image"
             />
