@@ -17,8 +17,8 @@ export default function OurMission() {
             <p className="text-[#234f21] mb-2 text-lg font-bold">
               How We Help: Medical
             </p>
-            <p>
-              The Ministry is actively involved inRural Medical Outreach to
+            <p className="pt-2">
+              The Ministry is actively involved in rural Medical Outreach to
               reach the less privileged people in remote villages where they
               have no access to medical facilities. During the outreach, the
               ministry gives health talks on prevention and control of deadly
@@ -27,11 +27,13 @@ export default function OurMission() {
               organisations to donate essential drugs, hospital
               equipment/material, etc, to enhance successful programmes. We
               support medical missionaries like doctors, nurses etc undergoing
-              training in mission schools and those in mission field. We operate
-              Community Mission Health Centers to cater for the sick and as a
-              means of reaching souls in such communities. We visit Leprosy
-              Colonies to share the love of Christ, also with essential drugs
-              and food items.
+              training in mission schools and those in mission fields.
+            </p>
+            <p className="pt-3">
+              We operate/support Community Mission Health Centers to cater for
+              the sick and as a means of reaching souls in such communities. We
+              visit Leprosy Colonies to share the love of Christ, also with
+              essential drugs and food items.
             </p>
           </div>
           <span className="shadow-xl">
@@ -81,7 +83,7 @@ export default function OurMission() {
               swminars for health care Christain Fellowship HCF, NIFES,
               Christain Union etc. in several hospitals/ schools where we create
               awareness of opportunities available to christain health workers
-              to inister tot heir numerous hopeless and dying patients
+              to minister to their numerous hopeless and dying patients.
             </p>
           </div>
           <span className="shadow-xl">
