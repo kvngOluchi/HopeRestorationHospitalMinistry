@@ -20,7 +20,7 @@ export default function FollowingJesus() {
           </h2>
           <div className="w-12 h-1 bg-[#204c27]"></div>
           <p>
-            Welcome to Hope Restoration Hospital Ministry Inc. with the headquaters in warri, Delta state, Nigeria. We are a registered Christian NGO involved in Hospital Evangelism and Rural Medical Outreach, where we preach the undiluted Gospel and offer free Medical Services to the people in need.
+            We are excited to welcome you to our mission from all over the world. Hope Restoration Hospital Ministry Inc. with the headquaters in warri, Delta state, Nigeria is a registered Christian NGO involved in Hospital Evangelism and Rural Medical Outreach, where we preach the undiluted Gospel and offer free Medical Services to the people in need.
           </p>
           <div className="flex gap-1 justify-center lg:mx-24 lg:my4 my-1">
             <span>
