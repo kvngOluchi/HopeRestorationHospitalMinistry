@@ -40,9 +40,9 @@ export default function HowItStarted() {
           <Image
             className="shadow-xl p-4"
             src={
-              "/./image/long-straight-corridor-hospital-with-seats-doors-along-walls-no-people_933530-1936.jpg"
+              "/Image/long-straight-corridor-hospital-with-seats-doors-along-walls-no-people_933530-1936.jpg"
             }
-            width={640}
+            width={370}
             height={0}
             alt="Hero Background Image"
           />

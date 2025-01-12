@@ -13,7 +13,7 @@ export default function AboutUsDefinition() {
             <Image
               className="shadow-xl p-4"
               src={"/Image/backyy.png"}
-              width={320}
+              width={390}
               height={0}
               alt="Hero Background Image"
             />
@@ -34,7 +34,7 @@ export default function AboutUsDefinition() {
           <ReadMore text={str} />
           <span className="font-bold text-[#423e73] ">CORE VALUES: </span>
           <p className="font-bold">Mission:</p>
-          <ul className="list-style-type list-disc bg-[#f1f1f1]">
+          <ul className="list-style-type list-disc bg-[#1c1d1d] text-white">
             <li>
               Servant Hood: Serving the physical and spiritual needs of others
             </li>
@@ -46,7 +46,7 @@ export default function AboutUsDefinition() {
             </li>
           </ul>
           <p className="font-bold">Spiritual:</p>
-          <ul className="list-style-type list-disc bg-[#f1f1f1]">
+          <ul className="list-style-type list-disc bg-[#1c1d1d] text-white">
             <li>Compassion: Showing empathy and kindness to those in need.</li>
             <li>Faithfulness: Trusting in God's guidance and provision</li>
             <li>
@@ -55,7 +55,7 @@ export default function AboutUsDefinition() {
             </li>
           </ul>
           <p className="font-bold">Organisation:</p>
-          <ul className="list-style-type list-disc bg-[#f1f1f1]">
+          <ul className="list-style-type list-disc bg-[#1c1d1d] text-white">
             <li>Stewardship: Managing resources effectively.</li>
             <li>Transparency: Demonstrating accountability and openness</li>
             <li>
