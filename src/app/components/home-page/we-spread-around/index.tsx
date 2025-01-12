@@ -25,16 +25,16 @@ export default function WeSpreadAround() {
           </p>
           <div className="flex gap-1 text-center text-black lg:mx-24 lg:my-4 my-4 justify-center">
             <span className="bg-[#f1f1f1] p-1 border-radius rounded-lg">
-              <h2 className="text-lg text-[#204c27]">20+</h2>
+              <h2 className="text-lg text-[#204c27]">30+</h2>
               <p className=" text-sm">years of experience</p>
             </span>
             <span className="bg-[#f1f1f1] p-1 border-radius rounded-lg">
-              <h2 className="text-lg text-[#204c27]">20</h2>
-              <p className=" text-sm">Offices world wide</p>
+              <h2 className="text-lg text-[#204c27]">20+</h2>
+              <p className=" text-sm">Hospital visited </p>
             </span>
             <span className="bg-[#f1f1f1] p-1 border-radius rounded-lg">
-              <h2 className="text-lg text-[#204c27]">38K</h2>
-              <p className=" text-sm">Workers Employed!!!</p>
+              <h2 className="text-lg text-[#204c27]">3K</h2>
+              <p className=" text-sm">Voluntary Workers</p>
             </span>
           </div>
         </div>
