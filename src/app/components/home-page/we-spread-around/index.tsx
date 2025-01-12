@@ -29,8 +29,8 @@ export default function WeSpreadAround() {
               <p className=" text-sm">years of experience</p>
             </span>
             <span className="bg-[#f1f1f1] p-1 border-radius rounded-lg">
-              <h2 className="text-lg text-[#204c27]">20+</h2>
-              <p className=" text-sm">Hospital visited </p>
+              <h2 className="text-lg text-[#204c27]">50k+</h2>
+              <p className=" text-sm">Hospitals visited </p>
             </span>
             <span className="bg-[#f1f1f1] p-1 border-radius rounded-lg">
               <h2 className="text-lg text-[#204c27]">3K</h2>
