@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "@/ui/button";
 import HowStartedButton, { DonateButton } from "@/ui/page-button";
 
 export default function ServingHospital() {

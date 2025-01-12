@@ -1,5 +1,4 @@
 "use client";
-import { Icon, ICONS } from "@/ui";
 import Image from "next/image";
 import React from "react";
 

@@ -1,8 +1,6 @@
 import { Logo } from "@/ui";
 import React from "react";
 import Navigation from "./navigation";
-import Button from "@/ui/button/index";
-import { ButtonProps } from "@/ui/button/types";
 import MobileNavigation from "./mobile-navigation";
 
 export default function Header() {

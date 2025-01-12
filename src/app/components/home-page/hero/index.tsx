@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { Icon, ICONS } from "@/ui";
 
 export default function Hero() {
   return (
@@ -8,12 +7,12 @@ export default function Hero() {
       <div className=" grid">
         {/*background image*/}
         <span className="w-full h-[500px] md:h-[600px] relative grid col-[-1/1] row-[-1/1]">
-         <Image 
-        src ={"/Image/churchbackky.png"}
-        fill
-        objectFit="cover"
-        alt={"This is the Logo"}
-      />
+          <Image
+            src={"/Image/churchbackky.png"}
+            fill
+            objectFit="cover"
+            alt={"This is the Logo"}
+          />
         </span>
         {/* Content */}
         <div className="grid col-[-1/1] row-[-1/1] relative text-white bg-[rgba(0,0,0,0.3)] grid-rows-[auto_1fr] gap-10 py-10 px-5 sm:px-10">

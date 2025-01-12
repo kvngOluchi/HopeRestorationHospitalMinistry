@@ -1,5 +1,4 @@
 import { Icon, ICONS } from "@/ui";
-import { section } from "framer-motion/client";
 import React from "react";
 
 export default function ContactDet() {

@@ -2,7 +2,6 @@ import { Icon } from "@/ui/icon";
 import { ICONS } from "@/ui/icon/types";
 import { Logo } from "@/ui";
 import React from "react";
-import Button from "@/ui/button";
 
 export default function Footer() {
   return (

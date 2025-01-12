@@ -2,11 +2,9 @@
 
 import { NAVIGATION_SCHEMA } from "@/constants/navigation";
 import { ICONS, Icon, Logo } from "@/ui";
-import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useState } from "react";
 import NavItem from "./nav-item";
-import Button from "@/ui/button";
 
 export default function MobileNavigation() {
   const path = usePathname();
