@@ -25,8 +25,7 @@ export default function Hero() {
               Welcome to Hope Restoration Hospital Ministries inc
             </h1>
             <button className="font-semibold grid grid-flow-col gap-3 w-max items-center mx-auto mt-5">
-              We Care, Preach and God Heal, Saves.
-              <Icon type={ICONS.arrow_right_icon} size={20} color="#FFFFFF" />
+              We Care, Preach and God Heals, Saves.
             </button>
           </div>
         </div>
