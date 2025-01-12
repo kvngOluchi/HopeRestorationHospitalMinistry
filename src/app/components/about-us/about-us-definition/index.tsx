@@ -12,7 +12,7 @@ export default function AboutUsDefinition() {
           <span>
             <Image
               className="shadow-xl p-4"
-              src={"/image/backyy.png"}
+              src={"/Image/backyy.png"}
               width={320}
               height={0}
               alt="Hero Background Image"
