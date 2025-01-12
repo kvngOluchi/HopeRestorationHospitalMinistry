@@ -24,6 +24,7 @@ export default function MissionHero() {
             <h1 className="text-white font-bold text-2xl sm:text-4xl lg:text-5xl lg:leading-[1.3]">
               Bringing Light to the darkness, hope to the hopeless
             </h1>
+            <p className="font-bold">CARING HANDS</p>
           </div>
         </div>
       </div>

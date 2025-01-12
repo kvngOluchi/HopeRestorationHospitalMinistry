@@ -19,10 +19,10 @@ export default function SupportMission() {
           </h1>
           <p className="mt-2">
             Your support helps provide good medicine to those in need across
-            Africa. By funding medical projects for people who suffer from
-            terminal diseases like HIV/AIDS, cancer and other, By helping you
-            can bring health, joy and Hope to those in need Join Us in making a
-            lasting impact!!
+            Africa by funding medical projects for people who suffer from
+            terminal diseases like HIV/AIDS, cancer, leprosy and other. By
+            helping you can bring health, joy and Hope to those in need. Join Us
+            in making a lasting impact!!
           </p>
           <div className="flex justify-around">
             {" "}
