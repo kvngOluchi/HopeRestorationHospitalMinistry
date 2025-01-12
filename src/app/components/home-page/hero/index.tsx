@@ -21,7 +21,7 @@ export default function Hero() {
           </button>
           <div className="h-full grid gap-5 content-center max-w-3xl mx-auto text-center">
             <h1 className="text-white font-bold text-2xl sm:text-4xl lg:text-5xl lg:leading-[1.3]">
-              Welcome to Hope Restoration Hospital Ministries inc
+              Welcome to Hope Restoration Hospital Ministry Inc
             </h1>
             <button className="font-semibold grid grid-flow-col gap-3 w-max items-center mx-auto mt-5">
               We Care, Preach and God Heals, Saves.

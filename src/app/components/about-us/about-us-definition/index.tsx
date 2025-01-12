@@ -34,9 +34,9 @@ export default function AboutUsDefinition() {
           <ReadMore text={str} />
           <span className="font-bold text-[#423e73] ">CORE VALUES: </span>
           <p className="font-bold">Mission:</p>
-          <ul className="list-style-type list-disc bg-[#1c1d1d] text-white">
+          <ul className="list-style-type list-disc bg-[#423e73] text-white">
             <li>
-              Servant Hood: Serving the physical and spiritual needs of others
+              Servant hood: Serving the physical and spiritual needs of others
             </li>
             <li>
               Cultural Sensitivity: Respecting local customs and tradtions
@@ -44,23 +44,37 @@ export default function AboutUsDefinition() {
             <li>
               Community Engagment: Building relationships and partnerships
             </li>
+            <li>Evangelism: Sharing the Gospel through words and actions.</li>
           </ul>
           <p className="font-bold">Spiritual:</p>
-          <ul className="list-style-type list-disc bg-[#1c1d1d] text-white">
+          <ul className="list-style-type list-disc bg-[#423e73] text-white">
             <li>Compassion: Showing empathy and kindness to those in need.</li>
             <li>Faithfulness: Trusting in God's guidance and provision</li>
             <li>
               Humility: Serving the Body of Christ and the general public with
               humility
             </li>
+            <li>Prayerfullness: Seeking divine guidance and wisdom</li>
           </ul>
           <p className="font-bold">Organisation:</p>
-          <ul className="list-style-type list-disc bg-[#1c1d1d] text-white">
+          <ul className="list-style-type list-disc bg-[#423e73] text-white">
             <li>Stewardship: Managing resources effectively.</li>
             <li>Transparency: Demonstrating accountability and openness</li>
             <li>
               Collaboration: Partnering with other Organisation and stakeholders
             </li>
+            <li>Sustainability: Ensuring long-term impact and viability</li>
+          </ul>
+          <p className="font-bold">Professional</p>
+          <ul className="list-style-type list-disc bg-[#423e73] text-white">
+            <li>Excellence: Providing quality medical care.</li>
+            <li>
+              Accountability: Taking responsibilty for actions and decisions
+            </li>
+            <li>
+              Teamwork: Collsaborating with colleagues and local communities
+            </li>
+            <li>Adaptability: Embracing cultural diversity and flexibility</li>
           </ul>
         </div>
       </div>

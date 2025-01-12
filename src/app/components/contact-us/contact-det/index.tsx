@@ -27,7 +27,7 @@ export default function ContactDet() {
             Email: cdonwubolu@gmail.com
           </p>
           <p className="text-[#084b1e] font-bold pb-5">
-            Website: cdonwubolu@gmail.com
+            Website: hoperestorationhospitalministry.com
           </p>
           <div className="bg-[#084b1e] w-10 h-0.5 m-auto"></div>
         </div>

@@ -62,7 +62,7 @@ export default function Footer() {
               <p>Zenith Bank PLC. A/C 1011350267</p>
             </div>
             <div className="block">
-              <p className=" font-bold">COMPANY:</p>
+              <p className=" font-bold">ORGANISATION:</p>
             </div>
             <div className="block">
               <a href="">HOPE RESTORATION HOSPITAL MINISTRY INC.</a>

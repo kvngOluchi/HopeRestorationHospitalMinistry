@@ -10,13 +10,13 @@ export default function BoardOfTrustee() {
               THE BOARD OF TRUSTEES{" "}
             </h1>
             <ul className="list-disc list-style-type">
-              <li>Charles D. Onwubolu</li>
+              <li>Charles D. Onwubolu - President</li>
+              <li>Prince Obaro Omeru - Secretary</li>
               <li>DR. Isaac Osajele</li>
               <li>DR. Okuchukwu Onwubolu</li>
               <li>DR. Raph Onyemeihia</li>
               <li>Mrs. Peace Ironkwe</li>
               <li>DR. James Kpolugbo</li>
-              <li>Prince Obaro Omeru</li>
             </ul>
           </div>
           <div>
@@ -39,7 +39,7 @@ export default function BoardOfTrustee() {
               MEMBERSHIP{" "}
             </h1>
             <p>
-              Membership is open to all christians and mainly volunteer from
+              Membership is open to all Christians and mainly volunteers from
               health workers.
             </p>
           </div>

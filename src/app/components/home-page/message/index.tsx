@@ -5,7 +5,9 @@ export default function Message() {
     <section className="layout-spacing mt-20 px-10">
       <div className="custom-container mb-20 ">
         <div className=" text-center font-bold text-2xl">
-          <h2 className="mt-20">ALL BECAUSE OF YOU</h2>
+          <h2 className="mt-20">
+            Suffered and Died for Our Salvation and Healing.
+          </h2>
           <div className="w-12 h-1 bg-[#423e73] m-auto mb-5"></div>
         </div>
         <p className="text-center text-lg font-bold">
