@@ -9,7 +9,7 @@ export default function ContactUsHero() {
         {/*background image*/}
         <span className="w-full h-[300px] md:h-[300px] relative grid col-[-1/1] row-[-1/1]">
           <Image
-            src={"/./image/retro-computer-desk-arrangement.jpg"}
+            src={"/Image/retro-computer-desk-arrangement.png"}
             fill
             objectFit="cover"
             alt="Hero Background Image"
