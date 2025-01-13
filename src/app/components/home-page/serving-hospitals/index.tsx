@@ -16,7 +16,8 @@ export default function ServingHospital() {
         <p className="text-lg font-bold px-5">
           We work with local hospitals and other bodies, to offer medical care
           and the Christ's message of peace, hope to those going through
-          terminal medical conditons such as HIV/AIDS, Cancer and others.
+          terminal medical conditons such as HIV/AIDS, Cancer, Leprosy and
+          others.
         </p>
         <div className="flex justify-around">
           {" "}

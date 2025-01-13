@@ -95,6 +95,28 @@ export default function OurMission() {
               alt="Hero Background Image"
             />
           </span>
+          <div className="p-5">
+            <p className="text-[#234f21] mb-2 text-lg font-bold mt-5">
+              Training
+            </p>
+            <p>
+              Hope Medical Academy is the training arm of the ministry. This
+              para-medical institution is designed to train pastors,
+              missionaries and church workers on basic health programmes and
+              emergency procedures such as First Aid, We need health education
+              manuals, projectors and films/videos for HIV/AIDS and Hard Drug
+              Addiction campaign materials
+            </p>
+          </div>
+          <span className="shadow-xl">
+            <Image
+              className="shadow-xl p-4 border-radius rounded-2xl"
+              src={"/Image/medical outreach 3.jpg"}
+              height={120}
+              width={710}
+              alt="Hero Background Image"
+            />
+          </span>
         </div>
       </div>
     </section>

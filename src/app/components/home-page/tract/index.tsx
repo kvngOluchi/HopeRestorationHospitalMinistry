@@ -10,7 +10,7 @@ export default function Tract() {
           <div className="w-12 h-1 bg-[#423e73] m-auto mb-5"></div>
         </div>
         <div className="grid md:grid-cols-3 m-auto gap-x-2">
-          <div className=" border-2  ">
+          <div className=" ">
             <span className="flex justify-center">
               <Image
                 className=""
@@ -22,22 +22,18 @@ export default function Tract() {
             </span>
           </div>
           <div>
-            <p className="p-5 font-bold">
-              Literature is one of the easiest and fastest means of
-              disseminating information hence this ministry gives much attention
-              to it. The Hope House Publications, an arm of the ministry is the
-              publisher of the Hospital Tracts and Books. Our specialized tracts
-              and books. Our specialized tracts are in high demand and widely
-              distributed in hospitals, prisons and general public. We wish to
-              inform you that the request for our Hospital Tract from
-              individuals and Christain books is becoming apparently difficult
-              to cope with. We will be glad if you and/ or your Organization can
-              send us your goodwill donations to continue in this work of soul
-              winning. There are testimonies of people who have been converted
-              in prisons and hospitals through our tracts. To God be the Glory.
-            </p>
+            {" "}
+            <span className="flex justify-center">
+              <Image
+                className=""
+                src={"/Image/IMG-20241227-WA0052.png"}
+                alt="Picture of a Road Reclaimer"
+                width={275}
+                height={250}
+              />
+            </span>
           </div>
-          <div className=" border-2  ">
+          <div className=" ">
             <span className="flex justify-center">
               <Image
                 src={"/Image/IMG-20241227-WA0050.png"}

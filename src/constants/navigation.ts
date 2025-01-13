@@ -21,5 +21,5 @@ export const NAVIGATION_SCHEMA = [
   },
 
   { title: "Contact us", url: "/Contact-Us", matcher: ["/Contact-Us"] },
-  // { title: "Quotes", url: "/Quotes", matcher: ["/Quotes"] },
+  { title: "Tracts", url: "/Tracts", matcher: ["/Tracts"] },
 ];

@@ -9,7 +9,7 @@ export default function AboutUsDefinition() {
     <section className="layout-spacing">
       <div className="custom-container grid md:grid-cols-[1fr_1fr]">
         <div className="">
-          <span>
+          <span className="justify-center">
             <Image
               className="shadow-xl p-4"
               src={"/Image/backyy.png"}
