@@ -1,9 +1,10 @@
+import { TractButton } from "@/ui/page-button";
 import Image from "next/image";
 import React from "react";
 
 export default function Tract() {
   return (
-    <section className="layout-spacing mt-28 bg-[#1c1d1d] pb-10 text-white ">
+    <section className="layout-spacing mt-28 bg-[#1c1d1d] pb-8 text-white ">
       <div className="custom-container">
         <div className=" text-center font-bold">
           <h2 className="mt-20">Tract from our mission</h2>
@@ -43,6 +44,9 @@ export default function Tract() {
               />
             </span>
           </div>
+        </div>
+        <div className="mt-4 m-auto">
+          <TractButton></TractButton>
         </div>
       </div>
     </section>

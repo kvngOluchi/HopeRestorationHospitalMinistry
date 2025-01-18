@@ -23,3 +23,13 @@ export function DonateButton() {
     </Link>
   );
 }
+export function TractButton() {
+  return (
+    <Link href="/Tracts">
+      <Button variant="filled-green" className="m-auto">
+        Tract
+        <Icon type={ICONS.arrow_right_icon} size={20} color="#FFFFFF" />
+      </Button>
+    </Link>
+  );
+}
