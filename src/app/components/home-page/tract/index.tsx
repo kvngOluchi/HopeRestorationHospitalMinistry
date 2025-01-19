@@ -12,7 +12,7 @@ export default function Tract() {
         </div>
         <div className="grid md:grid-cols-3 m-auto gap-x-2">
           <div className=" ">
-            <span className="flex justify-center">
+            <span className="flex justify-center py-3">
               <Image
                 className=""
                 src={"/Image/i-watched-her-die.jpg"}
@@ -24,7 +24,7 @@ export default function Tract() {
           </div>
           <div>
             {" "}
-            <span className="flex justify-center">
+            <span className="flex justify-center py-3">
               <Image
                 className=""
                 src={"/Image/IMG-20241227-WA0054.png"}
@@ -35,7 +35,7 @@ export default function Tract() {
             </span>
           </div>
           <div className=" ">
-            <span className="flex justify-center">
+            <span className="flex justify-center py-3">
               <Image
                 src={"/Image/IMG-20241227-WA0050.png"}
                 alt="Picture of a RCOS"

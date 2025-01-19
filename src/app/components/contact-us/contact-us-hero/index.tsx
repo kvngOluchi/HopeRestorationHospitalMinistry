@@ -26,7 +26,7 @@ export default function ContactUsHero() {
             </h1>
             <div>.......</div>
             <button className="font-semibold grid grid-flow-col gap-3 w-max items-center mx-auto mt-5">
-              We Care, Preach and God Heal, Saves.
+              We Care, Preach and God Heals, Saves.
               <Icon type={ICONS.arrow_right_icon} size={20} color="#0e4b1f" />
             </button>
           </div>
