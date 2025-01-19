@@ -21,10 +21,9 @@ export default function TractDetail() {
               disseminating information hence this ministry gives much attention
               to it. The Hope House Publications, an arm of the ministry is the
               publisher of the Hospital Tracts and Books. Our specialized tracts
-              and books. Our specialized tracts are in high demand and widely
-              distributed in hospitals, prisons and general public. We wish to
-              inform you that the request for our Hospital Tract from
-              individuals and Christain books is becoming apparently difficult
+              are in high demand and widely distributed in hospitals, prisons
+              and general public. We wish to inform you that the request for our
+              Hospital Tract from individuals is becoming apparently difficult
               to cope with. We will be glad if you and/ or your Organization can
               send us your goodwill donations to continue in this work of soul
               winning. There are testimonies of people who have been converted
@@ -89,7 +88,7 @@ export default function TractDetail() {
           </span>
           <span className="flex justify-center mt-2">
             <Image
-              src={"/Image/IMG-20241227-WA0052.png"}
+              src={"/Image/IMG-20241227-WA0051.png"}
               alt="Picture of a RCOS"
               width={275}
               height={250}
@@ -98,6 +97,14 @@ export default function TractDetail() {
           <span className="flex justify-center mt-2">
             <Image
               src={"/Image/IMG-20241227-WA0053.png"}
+              alt="Picture of a RCOS"
+              width={275}
+              height={250}
+            />
+          </span>
+          <span className="flex justify-center mt-2">
+            <Image
+              src={"/Image/IMG-20241227-WA0055.png"}
               alt="Picture of a RCOS"
               width={275}
               height={250}

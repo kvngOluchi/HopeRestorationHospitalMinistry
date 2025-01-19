@@ -15,7 +15,7 @@ export default function Tract() {
             <span className="flex justify-center">
               <Image
                 className=""
-                src={"/Image/IMG-20241227-WA0049.png"}
+                src={"/Image/i-watched-her-die.jpg"}
                 alt="Picture of a Road Reclaimer"
                 width={275}
                 height={250}
@@ -27,7 +27,7 @@ export default function Tract() {
             <span className="flex justify-center">
               <Image
                 className=""
-                src={"/Image/IMG-20241227-WA0052.png"}
+                src={"/Image/IMG-20241227-WA0054.png"}
                 alt="Picture of a Road Reclaimer"
                 width={275}
                 height={250}
