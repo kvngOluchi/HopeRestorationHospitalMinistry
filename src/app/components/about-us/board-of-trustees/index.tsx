@@ -10,12 +10,12 @@ export default function BoardOfTrustee() {
               THE BOARD OF TRUSTEES{" "}
             </h1>
             <ul className="list-disc list-style-type">
-              <li>Charles D. Onwubolu - President</li>
+              <li>Evangelist Charles D. Onwubolu, RN, MSc- President</li>
               <li>Prince Obaro Omeru - Secretary</li>
               <li>DR. Isaac Osajele</li>
               <li>DR. Okuchukwu Onwubolu</li>
-              <li>DR. Raph Onyemeihia</li>
-              <li>Mrs. Peace Ironkwe</li>
+              <li>DR. Raph Onyemekeiha</li>
+              <li>Mrs. Peace Ironkwe, RN</li>
               <li>DR. James Kpolugbo</li>
             </ul>
           </div>
@@ -24,7 +24,7 @@ export default function BoardOfTrustee() {
               THE COUNCIL MEMBERS{" "}
             </h1>
             <ul className="list-disc list-style-type">
-              <li>Evangelist Cahrles D. Onwubulu - President</li>
+              <li>Evangelist Cahrles D. Onwubolu - President</li>
               <li>Pastor Olanrewaju Daniel - Secretary</li>
               <li>Mrs. Obichukwu Omeru - Treasurer</li>
               <li>Mrs. Veronica Onwubolu - Member</li>
