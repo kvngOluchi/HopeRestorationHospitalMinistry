@@ -55,7 +55,7 @@ export default function Footer() {
           <div className=" space-y-2 my-1 block md:my-10">
             <div className="block">
               <p className=" font-bold">Email:</p>
-              <p>cdonwubolu@gmail.com</p>
+              <p> hrhm9425@gmail.com</p>
             </div>
             <div className="block">
               <p className=" font-bold">Our Banker:</p>

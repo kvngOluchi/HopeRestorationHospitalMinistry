@@ -4,11 +4,11 @@ export interface LogoProps {
   size: number;
 }
 
-export function Logo({size}:LogoProps) {
+export function Logo({ size }: LogoProps) {
   return (
     <div>
-      <Image 
-        src ={"/Image/hope rest. logo22.png"}
+      <Image
+        src={"/Image/newlogo.jpg"}
         width={size}
         height={size}
         alt={"This is the Logo"}
