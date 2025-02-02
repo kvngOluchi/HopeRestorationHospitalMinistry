@@ -10,8 +10,9 @@ export default function ServingHospital() {
         </h2>
         <div className="w-12 h-1 bg-[#423e73] m-auto mb-5"></div>
         <p className="text-lg font-bold px-5">
-          Hope Restoration Hospital Inc. is a Missionary body devoted to sharing
-          the Gospel of Jesus Christ in Hospitals in Africa and beyond.
+          Hope Restoration Hospital Ministry Inc. is a Missionary body devoted
+          to sharing the Gospel of Jesus Christ in Hospitals in Africa and
+          beyond.
         </p>
         <p className="text-lg font-bold px-5">
           We work with local hospitals and other bodies, to offer medical care

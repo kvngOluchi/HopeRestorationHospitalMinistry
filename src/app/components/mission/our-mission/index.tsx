@@ -23,11 +23,11 @@ export default function OurMission() {
               have no access to medical facilities. During the outreach, the
               ministry gives health talks on prevention and control of deadly
               diseases and also offers free medical treatment to community
-              participants. We appeal to concerened individuals and
-              organisations to donate essential drugs, hospital
-              equipment/material, etc, to enhance successful programmes. We
-              support medical missionaries like doctors, nurses etc undergoing
-              training in mission schools and those in mission fields.
+              participants. We appeal to concerned individuals and organisations
+              to donate essential drugs, hospital equipment/material, etc, to
+              enhance successful programmes. We support medical missionaries
+              like doctors, nurses etc undergoing training in mission schools
+              and those in mission fields.
             </p>
             <p className="pt-3">
               We operate/support Community Mission Health Centers to cater for
@@ -80,7 +80,7 @@ export default function OurMission() {
               the aid of effective distribution of Hospital Tracts through
               individuals, churches, and Christain bodies in different hospitals
               to reach the patients and the hospitals workers. We also organise
-              swminars for health care Christain Fellowship HCF, NIFES,
+              seminars for health care Christain Fellowship HCF, NIFES,
               Christain Union etc. in several hospitals/ schools where we create
               awareness of opportunities available to christain health workers
               to minister to their numerous hopeless and dying patients.

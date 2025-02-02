@@ -14,14 +14,15 @@ export default function Message() {
           patients. Lepers are normal human beings that need help and love, but
           who remembers them? They are treated as outcasts, separated from the
           society and their loved ones. Jesus suffered and died for the whole
-          world including the lepers. No man ascends into heaven with physical
-          body, the blind, lame, leper, deaf and dumb, all the redeemed of God
-          shall put on a glorified body. Lepers colonies are viable mission
-          fields. Hope Restoration Hospital Ministry visits their colonies to
-          identify with them. We present food items, clothing, and essential
-          medicines. Above all, we present the gospel of Jesus Christ to them. I
-          must testify that they are lovely people and always happy to receive
-          visitors. The following are few things to note about leprosy disease:
+          world including the lepers. No man ascends into heaven with deformed
+          physical body, the blind, lame, leper, deaf and dumb, all the redeemed
+          of God shall put on a glorified body. Lepers colonies are viable
+          mission fields. Hope Restoration Hospital Ministry visits their
+          colonies to identify with them. We present food items, clothing, and
+          essential medicines. Above all, we present the gospel of Jesus Christ
+          to them. I must testify that they are lovely people and always happy
+          to receive visitors. The following are few things to note about
+          leprosy disease:
         </p>
         <ul className="py-3">
           <p>Medical Care</p>

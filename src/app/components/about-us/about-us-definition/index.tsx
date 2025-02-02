@@ -72,7 +72,7 @@ export default function AboutUsDefinition() {
               Accountability: Taking responsibilty for actions and decisions
             </li>
             <li>
-              Teamwork: Collsaborating with colleagues and local communities
+              Teamwork: Collaborating with colleagues and local communities
             </li>
             <li>Adaptability: Embracing cultural diversity and flexibility</li>
           </ul>
