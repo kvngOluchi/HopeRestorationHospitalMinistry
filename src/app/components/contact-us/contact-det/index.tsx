@@ -35,9 +35,7 @@ export default function ContactDet() {
           <h2 className="font-bold">CONTACT US</h2>
           <p>You can reach us through Email or our Website</p>
           <p className="text-[#084b1e] font-bold">Email: hrhm9425@gmail.com</p>
-          <p className="text-[#084b1e] font-bold pb-5">
-            Website: hoperestorationhospitalministry.com
-          </p>
+          <p className="text-[#084b1e] font-bold pb-5">Website: www.hrhm.org</p>
           <div className="bg-[#084b1e] w-10 h-0.5 m-auto"></div>
         </div>
         <div className="text-center items-center mx-auto p-10">
