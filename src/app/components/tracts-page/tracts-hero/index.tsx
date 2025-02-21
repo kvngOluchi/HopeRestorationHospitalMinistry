@@ -21,7 +21,7 @@ export default function TractHero() {
           </button>
           <div className="h-full grid gap-5 content-center max-w-3xl mx-auto text-center">
             <h1 className="text-white font-bold text-2xl sm:text-4xl lg:text-5xl lg:leading-[1.3]">
-              ROOTED IN SRIPTURE GRWOING IN FAITH
+              ROOTED IN SCRIPTURE GROWING IN FAITH
             </h1>
             <p className="font-bold">SHARING THE WORD</p>
           </div>

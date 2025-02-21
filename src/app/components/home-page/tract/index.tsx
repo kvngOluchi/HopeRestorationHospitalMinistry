@@ -7,7 +7,7 @@ export default function Tract() {
     <section className="layout-spacing mt-28 bg-[#1c1d1d] pb-8 text-white ">
       <div className="custom-container">
         <div className=" text-center font-bold">
-          <h2 className="mt-20">Tract from our mission</h2>
+          <h2 className="mt-20">Tracts from our mission</h2>
           <div className="w-12 h-1 bg-[#423e73] m-auto mb-5"></div>
         </div>
         <div className="grid md:grid-cols-3 m-auto gap-x-2">
